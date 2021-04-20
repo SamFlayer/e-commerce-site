@@ -1,4 +1,4 @@
-## E-commerce - интернет магазин
+## [E-commerce - интернет магазин](https://commerce-web.herokuapp.com/)
 
 ## Технологии: 
 ### Front-End - React, Redux (Thunk и Saga), Sass
