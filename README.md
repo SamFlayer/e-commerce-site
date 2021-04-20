@@ -13,27 +13,27 @@
 
 Можно посмотреть детальную информацию о товаре и добавить его в корзину.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Screenshot2.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/pngs/blob/main/Screenshot2.png)
 **Рисунок 2. Информация о товаре**
 
 В корзине можно увеличить или уменьшить количество товара, удалить товар и перейти к оплате.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Screenshot3.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/pngs/blob/main/Screenshot3.png)
 **Рисунок 3. Корзина**
 
 Заказ можно оплатить с помощью кредитной карты или платежной системы PayPal.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Payment.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/pngs/blob/main/Payment.png)
 **Рисунок 4. Оплата**
 
 Можно просмотреть историю заказов.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Orders.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/pngs/blob/main/Orders.png)
 **Рисунок 5. Заказы**
 
 Продавец может воспользоваться аналитикой продаж.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Analytics.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/pngs/blob/main/Analytics.png)
 **Рисунок 6. Аналитика**
 
 ## Запуск
