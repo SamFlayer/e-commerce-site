@@ -18,7 +18,7 @@
 
 В корзине можно увеличить или уменьшить количество товара, удалить товар и перейти к оплате.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/pngs/blob/main/Screenshot3.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/pngs/Screenshot3.png)
 **Рисунок 3. Корзина**
 
 Заказ можно оплатить с помощью кредитной карты или платежной системы PayPal.
