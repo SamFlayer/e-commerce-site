@@ -8,32 +8,32 @@
 
 На главной странице можно перейти в интересующую вас категорию, найти товар в поиске, сменить язык, написать в службу поддержки, перейти в личный кабинет, и.т.д.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/Screenshot1.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Screenshot1.png)
 **Рисунок 1. Главная страница**
 
 Можно посмотреть детальную информацию о товаре и добавить его в корзину.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/Screenshot2.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Screenshot2.png)
 **Рисунок 2. Информация о товаре**
 
 В корзине можно увеличить или уменьшить количество товара, удалить товар и перейти к оплате.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/Screenshot3.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Screenshot3.png)
 **Рисунок 3. Корзина**
 
 Заказ можно оплатить с помощью кредитной карты или платежной системы PayPal.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/Payment.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Payment.png)
 **Рисунок 4. Оплата**
 
 Можно просмотреть историю заказов.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/Orders.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Orders.png)
 **Рисунок 5. Заказы**
 
 Продавец может воспользоваться аналитикой продаж.
 
-![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/Analytics.png)
+![alt text](https://github.com/SamFlayer/e-commerce-site/blob/main/pngs/Analytics.png)
 **Рисунок 6. Аналитика**
 
 ## Запуск
